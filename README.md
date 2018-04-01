@@ -1,1 +1,1 @@
-# ase-2018-iccci-bristol-2
+Please contact us at liviu.cotfas at ase .ro for the source code of the application presented in the paper.
